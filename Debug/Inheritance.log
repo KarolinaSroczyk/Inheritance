@@ -1,0 +1,7 @@
+﻿  Carp.cpp
+  Inheritance.cpp
+C:\Users\sigru\Desktop\Cos\Programowanie\C++\Inheritance\Inheritance\Inheritance.cpp(15,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\sigru\Desktop\Cos\Programowanie\C++\Inheritance\Inheritance\Inheritance.cpp(17,23): warning C4305: "argument": obcięcie z "double" do "float"
+  Perch.cpp
+  Generowanie kodu...
+  Inheritance.vcxproj -> C:\Users\sigru\Desktop\Cos\Programowanie\C++\Inheritance\Debug\Inheritance.exe
